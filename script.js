@@ -108,7 +108,7 @@ const quizData = [
         a: "Scientifically Proven",
         b: "Based on Mass Media",
         c: "Rumors from the neighborhood",
-        d: "Baased on beliefs and viewpoints",
+        d: "Based on beliefs and viewpoints",
         correct: "a",
     },
     {
